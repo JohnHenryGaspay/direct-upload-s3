@@ -1,5 +1,4 @@
-name: Deply Static Website
-
+name: Deply Website
 on:
   push:
     branches:
